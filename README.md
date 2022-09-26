@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
+<h3 align="center">For data science,machine learning and deep learning BETTER CALL METE!</h3>
+<img align="right" alt="Coding" width="400" src="![video-to-gif-converter](https://user-images.githubusercontent.com/102317496/192399120-d7062173-e860-4792-94f1-bf87abfa6620.gif)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitonekrem&label=Profile%20views&color=0e75b6&style=flat" alt="pitonekrem" /> </p>
 
 - 🔭 I’m currently working on **Blur Master**
