@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitonekrem&label=Profile%20views&color=0e75b6&style=flat" alt="pitonekrem" /> </p>
 
-- 🔭 I’m currently working on **Game Bot**
+- 🔭 I’m currently working on **Blur Master**
 
 - 🌱 I’m currently learning **deep learning,tensorflow,artificial intelligence**
 
